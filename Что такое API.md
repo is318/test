@@ -14,7 +14,7 @@
 2. Ввести URL – непосредственно путь до нужного ресурса;
 3. Заполнить необходимые параметры, или вставить содержимое JSON/XML-файла.
 
-Пример ответа на get-запрос списка профессий портала [hh.ru](https://hh.ru/) `https://api.hh.ru/professional_roles`:
+Пример ответа на get-запрос `https://api.hh.ru/professional_roles` списка профессий портала [hh.ru](https://hh.ru/):
 ```json
 {
 "categories": [
