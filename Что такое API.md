@@ -20,7 +20,9 @@
 #### Пример поиска вакансии с окладом 100к в Сочи
 :information_source: Описание параметров метода: ["Поиск по вакансиям"](https://api.hh.ru/openapi/redoc#tag/Poisk-vakansij/operation/get-vacancies).
 
+<kbd>
 <img src="/Screens/Postman.png" width="800" border="3">
+</kbd>
 
 **Алгоритм выполнения запроса:**
 1. Выбрать метод GET и вставить URL `https://api.hh.ru/vacancies`.
