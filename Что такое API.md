@@ -19,11 +19,7 @@
 
 #### Пример поиска вакансии с окладом 100к в Сочи
 
-![Пример заполнения параметров](/Screens/Postman.png)
-
-<p align="center">
-<img src="/Screens/Postman.png" width="600" border="1">
-</p>
+<img src="/Screens/Postman.png" width="800" border="1">
 
 :information_source: Описание параметров метода: ["Поиск по вакансиям"](https://api.hh.ru/openapi/redoc#tag/Poisk-vakansij/operation/get-vacancies).
 
