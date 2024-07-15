@@ -27,8 +27,8 @@
 **Алгоритм выполнения запроса:**
 1. Выбрать метод GET и вставить URL `https://api.hh.ru/vacancies`.
 2. Заполнить параметры в графе "Params":
-- **Зарплата:** Key=salary, Value=100000 (по умолчанию используется код валюты RUR);
-- **Регион:** Key=area, Value=237 - `id` региона, извлекается из [справочника регионов](https://api.hh.ru/openapi/redoc#tag/Obshie-spravochniki/operation/get-areas):
+- по зарплате: Key=salary, Value=100000 (по умолчанию используется код валюты RUR);
+- по региону: Key=area, Value=237 - `id` региона, извлекается из [справочника регионов](https://api.hh.ru/openapi/redoc#tag/Obshie-spravochniki/operation/get-areas):
 
 ```json
 "id": "237",
